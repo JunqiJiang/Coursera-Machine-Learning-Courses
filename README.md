@@ -1,3 +1,3 @@
 # Coursera-Machine-Learning-Stanford
 
-My solutions for this class
+My solutions for this course
